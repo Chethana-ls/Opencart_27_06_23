@@ -18,7 +18,7 @@ hp.Siginlogin();
 hp.Mobilenumber();
 hp.GetOTP();
 hp.OTPGiven();
-hp.Submitt();
+hp.Submit();
 
 {
 
