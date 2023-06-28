@@ -44,7 +44,7 @@ public void clicksigin() {
 	{
 		OTPGiven.sendKeys("123456");
 	}
-	public void Submitt()
+	public void Submit()
 	{
 		submit.click();
 	}
